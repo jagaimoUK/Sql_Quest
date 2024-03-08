@@ -31,9 +31,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/jagaimoUK/Sql_Quest/blob/main/README.md">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h3 align="center">sql-quest</h3>
 
