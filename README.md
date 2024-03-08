@@ -32,8 +32,6 @@
 <br />
 <div align="center">
 
-  <h3 align="center">sql-quest</h3>
-
   <p align="center">
     This is a quest for submitting.
     <br />
