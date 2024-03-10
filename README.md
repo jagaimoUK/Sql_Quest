@@ -71,8 +71,10 @@ Chatgpt gives you insert statements.
 <!-- TroubleShooting -->
 ## TroubleShooting
 
-### Diasble Foreign Key when modifing
+### Diasble Foreign Key when you want to change column constrained by Foreign Key
+Foreign Key prevents you from changing column
 `foreign_key_checks = 0;` can disable Foreing Key temporary
+but you need to reset `foreign_key_checks = 0;` 
 ```
 set foreign_key_checks = 0;
 alter table season modify fk_program_id bigint not null auto_increment;
